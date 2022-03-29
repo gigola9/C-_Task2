@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJM5Eu1VcBnudo5WvTs9LSa7VH/v7T3wt9v8Gb3jZKarVKwhS3H+8DywkGGYlRLpE4U49orgZLbOsIteGKd3BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gasanidze\\source\\repos\\Task2\\task-4\\task-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gasanidze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

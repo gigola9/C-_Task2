@@ -1,0 +1,15 @@
+C:\Users\gasanidze\source\repos\Task2\task-7\bin\Debug\net5.0\task-7.exe
+C:\Users\gasanidze\source\repos\Task2\task-7\bin\Debug\net5.0\task-7.deps.json
+C:\Users\gasanidze\source\repos\Task2\task-7\bin\Debug\net5.0\task-7.runtimeconfig.json
+C:\Users\gasanidze\source\repos\Task2\task-7\bin\Debug\net5.0\task-7.runtimeconfig.dev.json
+C:\Users\gasanidze\source\repos\Task2\task-7\bin\Debug\net5.0\task-7.dll
+C:\Users\gasanidze\source\repos\Task2\task-7\bin\Debug\net5.0\ref\task-7.dll
+C:\Users\gasanidze\source\repos\Task2\task-7\bin\Debug\net5.0\task-7.pdb
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\task-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\task-7.AssemblyInfoInputs.cache
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\task-7.AssemblyInfo.cs
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\task-7.csproj.CoreCompileInputs.cache
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\task-7.dll
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\ref\task-7.dll
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\task-7.pdb
+C:\Users\gasanidze\source\repos\Task2\task-7\obj\Debug\net5.0\task-7.genruntimeconfig.cache
